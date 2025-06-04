@@ -29,5 +29,6 @@ This framework proposes that **consciousness functions as a fractal generator**,
 scale-invariant informational operations.
 
 Author: Vladimir Sergeevich Shestopalov  
+info@vladimirshestopalov.ru
 Date: 2025-06-04~
 
